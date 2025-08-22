@@ -1,0 +1,12 @@
+{
+    "name":"BlockChain Economic Forum NFT 0",
+    "description":"This is VIP ticket for the best seat in the Blockchain Economic Forum",
+    "image":"ipfs://bafybeihnaatntecnf25vhnyun7vhb6txtoafgr56bwrndhv67leyejvd2m",
+    "attributes":[
+        {
+            "trait_type": "Rarity",
+            "value":"1"
+        }
+    ]
+}
+

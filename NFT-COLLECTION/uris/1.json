@@ -1,0 +1,11 @@
+{
+    "name":"BlockChain Economic Forum NFT 1",
+    "description":"This is a ticket for the seat number 1 in the Blockchain Economic Forum",
+    "image":"ipfs://bafybeihnaatntecnf25vhnyun7vhb6txtoafgr56bwrndhv67leyejvd2m",
+    "attributes":[
+        {
+            "trait_type": "Rarity",
+            "value":"1"
+        }
+    ]
+}
